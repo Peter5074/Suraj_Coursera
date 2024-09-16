@@ -16,11 +16,11 @@ body {
     margin-bottom: 30px;
 }
 .navbar-brand h1 {
-    font-family: "Nerko One", cursive;
+    font-family: "Jacques Francois Shadow", serif;
     color: #557c3e;
     font-size: 1.5em;
     text-transform: uppercase;
-    font-weight: bold;
+    font-weight: 600;
     text-shadow: 1px 1px 1px #222;
     margin: 0;
     line-height: 0.75;
